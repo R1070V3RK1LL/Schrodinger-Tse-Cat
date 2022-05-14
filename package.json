@@ -1,0 +1,20 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "application de chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Berard Téo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^16.4.0",
+    "mime": "^2.4.6",
+    "socket.io": "^3.0.1",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {}
+}
